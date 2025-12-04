@@ -1,0 +1,3 @@
+-- Marketplace Data System
+-- PostgreSQL schema
+-- Author: Serhii
